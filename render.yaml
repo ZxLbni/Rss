@@ -9,4 +9,4 @@ services:
       - key: BOT_TOKEN
         value: your_bot_token_here
       - key: CHANNEL_ID
-        value: @your_channel_username
+        value: your_channel_username
